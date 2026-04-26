@@ -1,0 +1,54 @@
+Added Component: Designator=D10(Diode SMD 214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AO214-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13(Diode SMD 214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AO214-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14(Diode SMD 214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AO214-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15(Diode SMD 214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AO214-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16(Diode SMD 214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AO214-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17(Diode SMD 214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "AO214-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC54_2 Pin=D10-1
+Added Pin To Net: NetName=NetCON2_4 Pin=D10-2
+Added Pin To Net: NetName=+5V Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=+5V Pin=D14-1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=+5V Pin=D15-1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=+5V Pin=D16-1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=+5V Pin=D17-1
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component D10 1N4007
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component D13 NC
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component D14 NC
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component D15 NC
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component D16 NC
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component D17 NC
