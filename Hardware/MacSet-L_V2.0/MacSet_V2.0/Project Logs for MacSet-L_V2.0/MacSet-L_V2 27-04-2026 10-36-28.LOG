@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=CON2-3
+Removed Member From Class: ClassName=MacSet-L-V2.0.0_3 Member=CON2
+Added Component: Designator=CON?(Screw Terminal Block 5.08x4)
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINYA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1x4x3.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=D10-2
+Added Pin To Net: NetName=NetCON?_1 Pin=D11-1
+Added Net: Name=NetCON?_1
+Added Pin To Net: NetName=NetCON?_3 Pin=CON?-3
+Added Pin To Net: NetName=NetCON?_3 Pin=F1-2
+Added Pin To Net: NetName=NetCON?_3 Pin=U6-2
+Added Net: Name=NetCON?_3
+Added Pin To Net: NetName=NetCON?_4 Pin=CON?-4
+Added Pin To Net: NetName=NetCON?_4 Pin=F2-2
+Added Pin To Net: NetName=NetCON?_4 Pin=U6-1
+Added Net: Name=NetCON?_4
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component C59 10nF
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component C60 10uF
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component CON? 5.08MM1x4

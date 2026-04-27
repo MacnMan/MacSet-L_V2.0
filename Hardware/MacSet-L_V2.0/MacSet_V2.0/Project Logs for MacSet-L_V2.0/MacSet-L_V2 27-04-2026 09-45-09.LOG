@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=B5-2
+Removed Pin From Net: NetName=GND Pin=C64-1
+Removed Pin From Net: NetName=GND Pin=C65-1
+Removed Pin From Net: NetName=GND Pin=C66-1
+Removed Pin From Net: NetName=GND Pin=C67-1
+Change Component Designator: OldDesignator=C59 NewDesignator=C63
+Change Component Designator: OldDesignator=C60 NewDesignator=C59
+Change Component Designator: OldDesignator=C61 NewDesignator=C60
+Change Component Designator: OldDesignator=C62 NewDesignator=C61
+Change Component Designator: OldDesignator=C63 NewDesignator=C62

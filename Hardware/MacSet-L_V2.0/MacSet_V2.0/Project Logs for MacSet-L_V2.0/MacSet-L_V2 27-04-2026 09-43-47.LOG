@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=NetCON1_4 Pin=CON1-3
+Removed Pin From Net: NetName=NetCON1_3 Pin=CON1-4
+Removed Pin From Net: NetName=NetCON1_6 Pin=CON1-5
+Removed Pin From Net: NetName=NetCON1_5 Pin=CON1-6
+Added Component: Designator=B4(SOT95P285X140-5N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAX Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPX3819M5-L-3-3/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B5(SOT95P285X140-5N)
+Add component (AddParameter): Name = "Manufacturer"; Value = "MAX Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPX3819M5-L-3-3/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C60(CAP0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM155R71H103KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C61(CAP0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C62(CAP0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C63(CAP0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C64(CAP0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM155R71H103KA55J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C65(CAP0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C66(CAP0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05B104KA5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Component: Designator=C67(CAP0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL10A106MA8NRNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ROBU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=B4-1
+Added Pin To Net: NetName=GND Pin=B4-2
+Added Pin To Net: NetName=+5V Pin=B4-3
+Added Pin To Net: NetName=+3.3V Pin=B4-5
+Added Pin To Net: NetName=GND Pin=B5-2
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=+5V Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=+3.3V Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=+3.3V Pin=C63-2
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=NetCON1_3 Pin=CON1-3
+Added Pin To Net: NetName=NetCON1_4 Pin=CON1-4
+Added Pin To Net: NetName=NetCON1_5 Pin=CON1-5
+Added Pin To Net: NetName=NetCON1_6 Pin=CON1-6
+Added Pin To Net: NetName=+3.3V_M Pin=B5-5
+Added Pin To Net: NetName=+3.3V_M Pin=C66-2
+Added Pin To Net: NetName=+3.3V_M Pin=C67-2
+Added Net: Name=+3.3V_M
+Added Pin To Net: NetName=NetB4_4 Pin=B4-4
+Added Pin To Net: NetName=NetB4_4 Pin=C60-2
+Added Net: Name=NetB4_4
+Added Pin To Net: NetName=NetB5_4 Pin=B5-4
+Added Pin To Net: NetName=NetB5_4 Pin=C64-2
+Added Net: Name=NetB5_4
+Added Pin To Net: NetName=VIN Pin=B5-1
+Added Pin To Net: NetName=VIN Pin=B5-3
+Added Pin To Net: NetName=VIN Pin=C65-2
+Added Net: Name=VIN
+Added Class: Name=Sheet1
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component B4 SPX3819M5-L-3-3/TR
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component C60 10nF
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component C61 10uF
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component C62 100nF
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component C63 10uF
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
