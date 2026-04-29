@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetCON2_1 Pin=D10-2
+Removed Pin From Net: NetName=NetCON2_1 Pin=D11-1
+Added Component: Designator=F3(FUSE_1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TECHFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "nSMD020-30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON2_1 Pin=F3-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-1
+Added Pin To Net: NetName=NetD10_2 Pin=F3-2
+Added Net: Name=NetD10_2
+Added Member To Class: ClassName=MacSet-L-V2.0.0_3 Member=Component F3 30V/200mA

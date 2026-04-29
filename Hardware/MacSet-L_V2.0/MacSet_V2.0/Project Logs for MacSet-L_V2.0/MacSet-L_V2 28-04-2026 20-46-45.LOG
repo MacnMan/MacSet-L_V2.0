@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Member From Class: ClassName=MacSet-L-V2.0.0_1 Member=C2
+Change Component Footprint: Designator=ANT1 Old Footprint=YC009AA New Footprint=2.4GHz PCB Anttenna
+Change Component Comment : Designator=ANT1 Old Comment=YC0009AA New Comment=-
+Change Component Kind : Designator=ANT1 Old Kind=Standard New Kind=Net Tie
+Change component parameters: Designator = "ANT1" ("ANT1"); Footprint = "YC009AA"; UniqueID = "\CRKMEFUJ" ("\CRKMEFUJ")
+Added Pin To Net: NetName=GND Pin=ANT1-2
